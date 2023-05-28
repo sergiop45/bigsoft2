@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bigsoft2/static/css/main.619851e3.css",
+    "main.js": "/bigsoft2/static/js/main.9790d504.js",
+    "static/js/787.4838e5e4.chunk.js": "/bigsoft2/static/js/787.4838e5e4.chunk.js",
+    "static/media/logogif.gif": "/bigsoft2/static/media/logogif.3e064d26ff9c634b602d.gif",
+    "index.html": "/bigsoft2/index.html",
+    "main.619851e3.css.map": "/bigsoft2/static/css/main.619851e3.css.map",
+    "main.9790d504.js.map": "/bigsoft2/static/js/main.9790d504.js.map",
+    "787.4838e5e4.chunk.js.map": "/bigsoft2/static/js/787.4838e5e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.619851e3.css",
+    "static/js/main.9790d504.js"
+  ]
+}
